@@ -21,11 +21,25 @@ Steps to Install and configuring repository :
 
 Prerequisites : gitbash should be installed
 
-Navigate to gitbash terminal and git clone the repository to some folder by following command
+Create Code folder in desktop.
+
+Navigate to that folder rightclick and select gitbash here.
+
+git bash terminal is opened .
+
+git clone the repository to this folder by following command
 
 git clone https://github.com/NehaDharupta/CarsomeAssignment.git
 
-Once the command is successfully run the project will be availabe in local
+Once the command is successfully run the project will be availabe in local.
+
+Navigate to Code>CarsomeAssignment folder and rightclick and again perform gitbash here 
+
+In git bash terminal type in following command to navigate to master
+
+git checkout master
+
+Once this command is successfully run ,the project is available locally in Code folder
 
 Open the locally available project in eclipse IDE
 
