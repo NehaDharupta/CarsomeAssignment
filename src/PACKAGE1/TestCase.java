@@ -41,6 +41,7 @@ public class TestCase {
 				
 			{
 				System.out.println("18 Perodua AIXA cars displayed in carsome");
+				System.out.println("Test Case 1 Passed");
 			}
 			else
 			{
@@ -81,6 +82,7 @@ public class TestCase {
 				if (sortedPrice.equals(prices))
 				{
 					System.out.println("The prices on webpage are correctly displayed in ascending order");
+					System.out.println("Test Case 2 Passed");
 				}
 				else {
 					System.out.println("The prices on webpage are incorrectly displayed i.e. are not in ascending order");;
